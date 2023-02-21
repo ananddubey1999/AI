@@ -13,7 +13,7 @@
 }
 
 body {
-  font-family: 'Yeseva One', cursive;
+  font-family:Tahoma, sans-serif;;
   font-size: 16px;
   line-height: 1.5;
   color: #333;
@@ -138,7 +138,7 @@ body {
 .title {
   margin: 0 auto;
   color: white; 
-  font-family: 'Lato', sans-serif;
+  font-family: Tahoma, sans-serif;;
   font-size: 3rem;
 }
 
